@@ -1,0 +1,45 @@
+site_name: GDSC BPDC SnP 
+nav:
+    - Home: index.md
+    - Marketing: marketing.md
+    - Branding: branding.md
+    - Events: events.md
+    - Workshops: workshops.md
+    - Competitions: competitions.md
+    - Council Applications & Selection: council_selection.md
+
+theme: material
+
+palette: 
+
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+
+features:
+    - toc.integrate
+    - navigation.top
+plugins:
+  - offline:
+      enabled: !ENV [OFFLINE, false]
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/gdsc-bpdc
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/gdsc_bpdc/
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/google-developer-student-club-bits-dubai/mycompany/?viewAsMember=true
+
+copyright: |
+  &copy; 2024 <a href="https://github.com/gdscbpdc.tech"  target="_blank" rel="noopener">GDSC_BPDC</a>
