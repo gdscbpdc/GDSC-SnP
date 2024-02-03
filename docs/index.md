@@ -14,11 +14,13 @@ It should be your first resource which you should access to when you have any qu
 
 ### Departmental Guidelines
 
-- [Technical Workshops](https://sivaab.github.io/GDSC-SnP/workshops/)
-- [Competitions](https://sivaab.github.io/GDSC-SnP/competitions/)
-- [Branding](https://sivaab.github.io/GDSC-SnP/branding/)
-- [Event Planning](https://sivaab.github.io/GDSC-SnP/events/)
-- [And More...](#)
+- Technical Team: 
+    - [Workshops](https://sivaab.github.io/GDSC-SnP/workshops/)
+    - [Competitions](https://sivaab.github.io/GDSC-SnP/competitions/)
+- Marketing & Creative: 
+    - [Branding](https://sivaab.github.io/GDSC-SnP/branding/)
+- Events: 
+    - [Event Planning](https://sivaab.github.io/GDSC-SnP/events/)
 
 ### Council Members (2023-2024)
 
@@ -56,6 +58,7 @@ Here's a list of our dedicated council members for the year 2023-2024:
 ### Other GDSC Resources
 
 Stay connected with us & easily access GDSC BPDC Internal Tools and Resources through our various resources and channels & websites:
+
 - [GDSC's Internal Council App](https://gdscbpdc.streamlit.app/)
 - [GDSC BITS Pilani Dubai Campus Linktree](https://linktr.ee/gdsc_bpdc?utm_source=linktree_profile_share&ltsid=0cec78d8-cf20-4f72-87ce-55eb18c6e328)
 - [GDSC BPDC Community Page on Google for Developers Site](https://gdsc.community.dev/bits-pilani-dubai/)
