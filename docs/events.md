@@ -72,5 +72,4 @@ Welcome to the Event Planning Guidelines for GDSC BITS Pilani Dubai Campus! This
 
 By following these extensive and self-explanatory event planning guidelines, you will be well-prepared to organize successful events that benefit the GDSC community.
 
----
-*GDSC BITS Pilani Dubai Campus | Last Updated: February 2024*
+

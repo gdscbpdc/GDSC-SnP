@@ -110,5 +110,3 @@ By following these guidelines, you'll contribute to the success of GDSC BITS Pil
 
 **Note**: This document serves as a comprehensive guide for organizing competitions and should be adapted and customized to suit the specific requirements and processes of your GDSC chapter.
 
----
-*GDSC BITS Pilani Dubai Campus | Last Updated: February 2024*

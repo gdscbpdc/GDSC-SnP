@@ -104,5 +104,3 @@ Our brand's tone of voice reflects our personality and values. It sets the tone 
 
 By adhering to these branding guidelines, we can maintain a consistent and compelling identity for GDSC BITS Pilani Dubai Chapter, strengthening our connection with the community and partners.
 
----
-*GDSC BITS Pilani Dubai Campus | Last Updated: February 2024*

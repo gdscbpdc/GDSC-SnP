@@ -200,5 +200,3 @@ Best regards,
 
 GDSC Onboarding Team
 
----
-*GDSC BITS Pilani Dubai Campus | Last Updated: February 2024*

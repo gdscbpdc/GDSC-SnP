@@ -75,5 +75,3 @@ By following these guidelines, you'll contribute to the success of GDSC BITS Pil
 
 **Remember**: All workshop materials should be converted to Markdown for easy sharing on the GDSC website.
 
----
-*GDSC BITS Pilani Dubai Campus | Last Updated: February 2024*
