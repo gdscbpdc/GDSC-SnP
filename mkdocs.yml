@@ -1,5 +1,5 @@
 site_name: GDSC BPDC SnP 
-site_url: https://sivaab.github.io/gdsc-snp/
+site_url: https://gdsc.github.io/gdsc-snp/
 nav:
     - Home: index.md
     - Marketing: marketing.md
