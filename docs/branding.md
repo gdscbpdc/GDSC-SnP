@@ -4,33 +4,6 @@
 
 Branding is a strategic process that involves creating a unique identity for GDSC BITS Pilani Dubai Chapter. It is crucial to convey our values, mission, and personality consistently to our target audience. Effective branding helps build trust, recognition, and loyalty within the community.
 
-### Event Naming Overview
-
-Naming GDSC events is not just about conveying information; it's about creating excitement, anticipation, and a sense of belonging. Inspired by Apple's naming conventions, we aim to make our event names memorable and engaging.
-
-### Event Naming Guidelines
-
-1. **Simplicity**: Keep event names simple and concise. Avoid overly technical or complicated names that may deter participants. For example, instead of naming a workshop "GDSC Introductory Talk," consider "Just GDSC Things."
-
-2. **Engagement**: Create event names that evoke curiosity or emotions. Think about how Apple names its products, such as "iPhone" or "AirPods," which are simple yet intriguing.
-
-3. **Consistency**: Maintain a consistent naming style across all events to reinforce our brand identity. Use words or phrases that resonate with our mission and values.
-
-4. **Alignment**: Ensure that event names align with the event's content and purpose. The name should provide a hint of what participants can expect.
-
-5. **Avoid Acronyms**: Minimize the use of acronyms or technical terms in event names to make them accessible to a broader audience.
-
-### Importance of Branding
-
-1. **Establishes Identity**: Branding defines who we are and what we represent, helping us stand out in a crowded tech community.
-
-2. **Builds Trust**: Consistent branding builds trust among our members, partners, and stakeholders, as it showcases professionalism and reliability.
-
-3. **Fosters Recognition**: A well-designed brand creates instant recognition, making it easier for the community to associate with our activities and events.
-
-4. **Attracts Partnerships**: Strong branding attracts potential partners who align with our mission, resulting in collaboration opportunities.
-
-5. **Enhances Community Engagement**: A cohesive brand identity engages our community and encourages active participation.
 
 ## Logo Usage
 
@@ -103,4 +76,11 @@ Our brand's tone of voice reflects our personality and values. It sets the tone 
 5. **Consistency**: Ensure that the tone of voice aligns with our brand's values and messaging across all platforms and materials.
 
 By adhering to these branding guidelines, we can maintain a consistent and compelling identity for GDSC BITS Pilani Dubai Chapter, strengthening our connection with the community and partners.
+
+
+
+
+
+
+
 
