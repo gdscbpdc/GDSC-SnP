@@ -2,6 +2,24 @@
 
 Welcome to the Event Planning Guidelines for GDSC BITS Pilani Dubai Campus! This comprehensive guide will help you organize successful and memorable events for our community. Remember that all workshops and their documentation should be prepared in Markdown for easy upload to GDSC's website.
 
+```mermaid
+graph LR
+A{Event Planning} --> B[Define Objectives]
+B --> C[Select Event Type]
+C --> D[Set Date and Time]
+D --> E{Venue Selection}
+D --> G{Event Promotion}
+E --> E1[Capacity and Size]
+E --> E2[Location]
+E --> E3[Technical Infrastructure]
+E --> E4[Layout and Seating]
+G --> G1[Target Audience]
+G --> G2[Marketing Materials]
+G --> G4[Collaborations]
+G --> G6[Engagement]
+G --> G7[Feedback Loop]
+ ```
+
 ## Event Logistics
 
 ### Planning
@@ -71,5 +89,4 @@ Welcome to the Event Planning Guidelines for GDSC BITS Pilani Dubai Campus! This
 7. **Feedback Loop**: Encourage feedback from attendees and use it to improve future events.
 
 By following these extensive and self-explanatory event planning guidelines, you will be well-prepared to organize successful events that benefit the GDSC community.
-
 
