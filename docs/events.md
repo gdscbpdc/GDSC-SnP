@@ -18,7 +18,7 @@ G --> G2[Marketing Materials]
 G --> G4[Collaborations]
 G --> G6[Engagement]
 G --> G7[Feedback Loop]
- ```
+```
 
 ## Event Logistics
 

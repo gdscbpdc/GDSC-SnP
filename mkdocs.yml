@@ -1,38 +1,52 @@
-site_name: GDSC BPDC SnP 
-site_url: https://sivaab.github.io/gdsc-snp/
-nav:
-    - Home: index.md
-    - Marketing: marketing.md
-    - Branding: branding.md
-    - Events: events.md
-    - Workshops: workshops.md
-    - Competitions: competitions.md
-    - Council Applications & Selection: council_selection.md
-
-theme: material
-
-palette: 
-
-    # Palette toggle for light mode
-    - scheme: default
-      toggle:
-        icon: material/brightness-7 
-        name: Switch to dark mode
-
-    # Palette toggle for dark mode
-    - scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
-
-
-features:
+site_name: GDSC BPDC SnP
+theme:
+  name: material
+  features:
+    - navigation.sections
     - toc.integrate
     - navigation.top
-plugins:
-  - offline:
-      enabled: !ENV [OFFLINE, false]
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: "#4285F4"
+      accent: "#F4B400"
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: "#4285F4"
+      accent: lime
 
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - markdown.extensions.codehilite
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
 extra:
   social:
     - icon: fontawesome/brands/github
@@ -41,6 +55,5 @@ extra:
       link: https://www.instagram.com/gdsc_bpdc/
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/google-developer-student-club-bits-dubai/mycompany/?viewAsMember=true
-
 copyright: |
   &copy; 2024 <a href="https://github.com/gdscbpdc.tech"  target="_blank" rel="noopener">GDSC_BPDC</a>
