@@ -1,4 +1,3 @@
-
 # Branding
 Branding is a strategic process that involves creating a unique identity for GDSC BITS Pilani Dubai Chapter. It is crucial to convey our values, mission, and personality consistently to our target audience. Effective branding helps build trust, recognition, and loyalty within the community.
 
