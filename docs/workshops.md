@@ -1,10 +1,9 @@
-# GDSC BITS Pilani Dubai Campus
-## Technical Workshop Conduct Guidelines
+# Technical Workshop
 
-### Introduction
+## Introduction
 Welcome to GDSC BITS Pilani Dubai Campus! As a council member or a technical team member, conducting technical workshops is a crucial part of our mission to empower and educate our community. This document provides comprehensive guidelines and procedures for conducting successful technical workshops.
 
-### Workshop Preparation
+## Workshop Preparation
 1. **Choose a Relevant Topic**: Select a topic that aligns with GDSC's objectives and community interests.
 
 2. **Define Learning Objectives**: Clearly define what participants should learn by the end of the workshop.
@@ -21,7 +20,7 @@ Welcome to GDSC BITS Pilani Dubai Campus! As a council member or a technical tea
    - Create eye-catching posters and digital assets.
    - Leverage your personal network.
 
-### During the Workshop
+## During the Workshop
 1. **Arrive Early**: Arrive at the venue (if physical) well in advance to set up and address any technical issues.
 
 2. **Engage with Participants**:
@@ -43,7 +42,7 @@ Welcome to GDSC BITS Pilani Dubai Campus! As a council member or a technical tea
 
 6. **Collect Feedback**: Distribute feedback forms or surveys to gather insights for improvement.
 
-### Workshop Conclusion
+## Workshop Conclusion
 1. **Wrap-Up and Recap**: Summarize key takeaways and revisit learning objectives.
 
 2. **Share Resources**:
@@ -52,7 +51,7 @@ Welcome to GDSC BITS Pilani Dubai Campus! As a council member or a technical tea
 
 3. **Announce Future Events**: Promote upcoming GDSC activities and events.
 
-### Post-Workshop
+## Post-Workshop
 1. **Documentation in Markdown**:
    - Convert your workshop content to Markdown format for easy sharing on the GDSC website.
    - Ensure all code snippets and links are functional.
@@ -63,14 +62,14 @@ Welcome to GDSC BITS Pilani Dubai Campus! As a council member or a technical tea
    - Write a blog post summarizing the workshop.
    - Share it on GDSC's website and social media.
 
-### Continuous Improvement
+## Continuous Improvement
 1. **Feedback Loop**: Regularly solicit feedback from participants and the GDSC community to refine your workshop strategies.
 
 2. **Collaborate with Peers**: Share best practices and collaborate with other workshop conductors to enhance the quality of workshops.
 
 3. **Stay Updated**: Keep up with the latest trends and technologies to offer relevant and cutting-edge content.
 
-### Conclusion
+## Conclusion
 By following these guidelines, you'll contribute to the success of GDSC BITS Pilani Dubai Campus and help nurture a thriving technical community.
 
 **Remember**: All workshop materials should be converted to Markdown for easy sharing on the GDSC website.

@@ -1,4 +1,4 @@
-# Creative & Marketing Guidelines
+# Creative & Marketing
 
 ## Marketing Strategy
 

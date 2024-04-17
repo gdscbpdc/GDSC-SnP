@@ -1,8 +1,5 @@
-# GDSC Recruitment Drive Emails
+# Recruitment
 
----
-
----
 ## Invitation to Final Round:
 
 ## Logistics Department

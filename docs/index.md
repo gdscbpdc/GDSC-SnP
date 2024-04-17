@@ -1,4 +1,4 @@
-# Welcome to our Guidelines Site
+# Home
 
 This site provides guidelines for our marketing department, branding, logistics for events, workshops, competitions, and conducting technical workshops.
 

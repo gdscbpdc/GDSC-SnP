@@ -1,10 +1,9 @@
-# GDSC BITS Pilani Dubai Campus
-## Competition Conduct Guidelines
+# Competition Conduct
 
-### Introduction
+## Introduction
 Welcome to GDSC BITS Pilani Dubai Campus! Organizing competitions is an exciting way to engage our community, foster learning, and showcase talent. This document provides comprehensive guidelines and procedures for conducting successful competitions.
 
-### 1. Pre-Competition Planning
+## 1. Pre-Competition Planning
 
 #### 1.1 Selecting Competition Type
 1. **Choose a Relevant Theme**: Select a theme that aligns with GDSC's objectives and interests of the community.
@@ -31,7 +30,7 @@ Welcome to GDSC BITS Pilani Dubai Campus! Organizing competitions is an exciting
    - Implement redundancy measures to handle website traffic spikes.
    - Regularly test the website to identify and address performance issues.
 
-### 2. Marketing and Promotion
+## 2. Marketing and Promotion
 
 #### 2.1 Marketing Strategy
 1. **Create a Marketing Plan**:
@@ -49,7 +48,7 @@ Welcome to GDSC BITS Pilani Dubai Campus! Organizing competitions is an exciting
    - Develop visually appealing posters, videos, and digital assets.
    - Highlight prizes, sponsors, and unique aspects of the competition.
 
-### 3. Logistics and Event Execution
+## 3. Logistics and Event Execution
 
 #### 3.1 Event Preparation
 1. **Organize Venue (if physical)**:
@@ -70,7 +69,7 @@ Welcome to GDSC BITS Pilani Dubai Campus! Organizing competitions is an exciting
 3. **Communication**:
    - Keep participants updated on competition progress, deadlines, and announcements.
 
-### 4. Post-Competition Activities
+## 4. Post-Competition Activities
 
 #### 4.1 Evaluation and Judging
 1. **Judging Panel**:
@@ -89,7 +88,7 @@ Welcome to GDSC BITS Pilani Dubai Campus! Organizing competitions is an exciting
    - Write a detailed blog post summarizing the competition.
    - Share it on GDSC's website and social media.
 
-### 5. Continuous Improvement
+## 5. Continuous Improvement
 
 #### 5.1 Learning and Adaptation
 1. **Feedback Loop**:
