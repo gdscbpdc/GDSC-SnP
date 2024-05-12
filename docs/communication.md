@@ -1,7 +1,7 @@
 ## Intra-Council Communication Channels
 
 **WhatsApp Community** 
-- GDSC Home: The WhatsApp Community of the GDSC Council
+## GDSC Home: The WhatsApp Community of the GDSC Council
 - GDSC Office Bearers Group
 - GDSC Core Council Group
 - GDSC Technical Group (No Network Specific Groups; All communications will happen through one focused technical group)
