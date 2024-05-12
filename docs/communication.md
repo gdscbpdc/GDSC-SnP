@@ -16,4 +16,5 @@
 </ul>
 
 
-==The Documentation is Subject to Change upon the Leads Decision; This documentation has been compiled through experiance and experimentation, and is the official documentation and procedures compiled by Mohammed Husamuddin and Maintained by Sivaa B==
+  ==The Documentation is Subject to Change upon the Leads Decision; This documentation has been compiled through experiance and experimentation, and is the official documentation and procedures compiled under the leadership of Mohammed Husamuddin and Maintained by Sivaa B==
+
