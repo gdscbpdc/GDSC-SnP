@@ -12,6 +12,7 @@ flowchart TD
     E-->M["Marketing Manager & Executives"]
     F-->P["Creative Managers & Executives"]
     G-->H["1 Finance Executive"]
+    subgraph management-team
     C-->|Events Team Reports Directly to Management Lead | I["Management/Events Team"]
     C-->| Team Members Include | EX["SnP Executive & Database Systems Admin"]
 ```
