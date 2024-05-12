@@ -21,6 +21,12 @@ It should be your first resource which you should access to when you have any qu
     - [Branding](https://sivaab.github.io/GDSC-SnP/branding/)
 - Events: 
     - [Event Planning](https://sivaab.github.io/GDSC-SnP/events/)
+ 
+### Leadership Guidelines
+- Council Structure and Hierarchy
+    - [Flowchart](https://gdscbpdc.github.io/GDSC-SnP/council_structure/)
+- Communication
+    - [Intra-Council Comms](https://gdscbpdc.github.io/GDSC-SnP/communication/)
 
 ### Council Members (2023-2024)
 
@@ -68,4 +74,4 @@ Stay connected with us & easily access GDSC BPDC Internal Tools and Resources th
 
 We'll continue improving and updating the website throught the academic year to enusure you have easy access to all of GDSC BPDC's asssets!
 
-  ==The Documentation is Subject to Change upon the Leads Decision; This documentation has been compiled through experiance and experimentation, and is the official documentation and procedures compiled under the leadership of Mohammed Husamuddin and Maintained by Sivaa B==
+> The Documentation is Subject to Change upon the Leads Decision; This documentation has been compiled through experiance and experimentation, and is the official documentation and procedures compiled under the leadership of Mohammed Husamuddin and Maintained by Sivaa B
