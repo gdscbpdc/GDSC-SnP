@@ -11,4 +11,5 @@ flowchart TD
     E-->M["Marketing Executive & Managers"]
     F-->P["Cretive Managers & Executive"]
     G-->H["1 Finance Executive"]
-    C-->|Events Team Reports Directly to Management Lead | I["Managemet/Events Team"] 
+    C-->|Events Team Reports Directly to Management Lead | I["Managemet/Events Team"]
+```
