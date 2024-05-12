@@ -75,3 +75,5 @@ The council structure depicted in the flowchart outlines the hierarchical struct
 
 - **SnP Executive & Database Systems Admin**: Specialized roles within the Management/Events Team, responsible for _Standards and Procuedures_ aka Quality Assurance and _Database administration_ aka Managing the GDSC Database.
 
+  ==The Documentation is Subject to Change upon the Leads Decision; This documentation has been compiled through experiance and experimentation, and is the official documentation and procedures compiled by Mohammed Husamuddin and Maintained by Sivaa B==
+
