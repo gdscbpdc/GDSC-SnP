@@ -9,7 +9,7 @@
   <li>GDSC Creative & Marketing Group (No Seperate Groups; These 2 departments go hand in hand)</li>
   <li>GDSC Finance</li>
   <li>GDSC Events/Management</li>
-  <li>_GDSC Council Retreat_ (Group is only for fun banter and interactions; Everybody in the group is equal and no official communication will take place)</li>
+  <li>GDSC Council Retreat (Group is only for fun banter and interactions; Everybody in the group is equal and no official communication will take place)</li>
     <ul>
       <li>Good Place to Ask for Notes/Advice/Plan Council Outings</li>
     </ul>
