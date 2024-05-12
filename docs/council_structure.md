@@ -6,10 +6,12 @@ flowchart TD
     C-->E["Marketing Lead"]
     C-->F["Creative Lead"]
     C-->G["Finance Lead"]
+    
 
     D-->T["Technical Executive & Network Leads"] 
-    E-->M["Marketing Executive & Managers"]
-    F-->P["Cretive Managers & Executive"]
+    E-->M["Marketing Manager & Executives"]
+    F-->P["Creative Managers & Executives"]
     G-->H["1 Finance Executive"]
     C-->|Events Team Reports Directly to Management Lead | I["Management/Events Team"]
+    C-->| Team Members Include | EX["SnP Executive & Database Systems Admin"]
 ```
