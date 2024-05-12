@@ -67,3 +67,5 @@ Stay connected with us & easily access GDSC BPDC Internal Tools and Resources th
 - [GDSC BITS Pilani Dubai Campus LinkedIn](https://www.linkedin.com/company/google-developer-student-club-bits-dubai/?viewAsMember=true)
 
 We'll continue improving and updating the website throught the academic year to enusure you have easy access to all of GDSC BPDC's asssets!
+
+  ==The Documentation is Subject to Change upon the Leads Decision; This documentation has been compiled through experiance and experimentation, and is the official documentation and procedures compiled by Mohammed Husamuddin and Maintained by Sivaa B==
