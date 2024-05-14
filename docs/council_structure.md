@@ -79,7 +79,7 @@ The council structure depicted in the flowchart outlines the hierarchical struct
 
 ---
 
-# Job Decriptions
+# Job Descriptions
 **SnP Executive**: Responsible for maintaining the Standards and Procedures of the Council Operations, Quality Check, Introduce and Optimize New or Existing Systems and Procedures, Automation of repeated tasks and Introduce Robust Tasks.
 - Will report to the Lead, Co-Lead and Management Lead
 
