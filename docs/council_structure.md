@@ -33,7 +33,8 @@ The council structure depicted in the flowchart outlines the hierarchical struct
   - Strategic planning and goal setting.
   - Overseeing team performance and ensuring alignment with organizational objectives.
   - Acting as a liaison between different teams and stakeholders.
-  - Responsible for external affairs and external interaction with university administration as a spokesperson.
+  - Manager of External Affairs & University Relations
+
 - **Mentors**: Responsible for keeping the Administrative Structure in Check, Advising the Lead and the Co-Lead in overall club management.
   - Helping the council technically and managerially when needed and keeping the systems and procedures in check.
 
@@ -73,24 +74,30 @@ The council structure depicted in the flowchart outlines the hierarchical struct
 - **Creative Managers & Executives**: Assist the Creative Lead in managing creative projects and outputs, comprising managers and executives with expertise in design and content creation.
 
 - **1 Finance Executive (H)**: Assists the Finance Lead in managing financial matters within the council, handling day-to-day financial operations and reporting.
-      - Also looks into membership structure and pricing structure, collect payments and interactive with fee related issues with members.
+  - Also looks into membership structure and pricing structure, collect payments and interactive with fee related issues with members.
 
 - **SnP Executive & Database Systems Admin**: Specialized roles within the Management/Events Team, responsible for _Standards and Procuedures_ aka Quality Assurance and _Database administration_ aka Managing the GDSC Database.
 
 ---
 
-# Job Descriptions
+# Job Decriptions
+
 **SnP Executive**: Responsible for maintaining the Standards and Procedures of the Council Operations, Quality Check, Introduce and Optimize New or Existing Systems and Procedures, Automation of repeated tasks and Introduce Robust Tasks.
+
 - Will report to the Lead, Co-Lead and Management Lead
 
-**Database Systems Admin**: Responsible for ensuring continuous development and maintainence of GDSC Database (Google Sheets, Task Tracker, GDSC Website, GDSC ERP). Also expected to building automation systems, Dashbaords and Internal Tools.
+**Database Systems Admin**: Responsible for ensuring continuous development and maintainence of GDSC Database (Google Sheets, Task Tracker, GDSC Website, GDSC ERP).
+
+- Also expected to building automation systems, Dashbaords and Internal Tools.
 
 **Technical Executive**: Conduct workshops on their field of experiance, Continuously learn new technologies and make questions for competitions and hackathons conducted by GDSC.
+
 - Also respnsible for handling technical aspects of workshops conducted by GDSC.
 - Preparing workshop documentation and actively reviewing documentation for other's workshops.
-**Marketing Executive**: Resonsible for coming up with ideas to market events(Workshops/Competitions/Hackathons/Drives) and implement them using the help of creative and events team.
+**Marketing Executive**: Resonsible for coming up with ideas to market events(Workshops/Competitions/Hackathons/Membership Drives) and implement them using the help of creative and events team.
 - Also responsible for coming up with new initiatives to improve engagement and ommunication with community members.
 
 > This structure is developed by Mohammed Husamuddin (Lead of Google DSC 2023-2024) from experiance and active experimentation
 
-==The Documentation is Subject to Change upon the Leads Decision; This documentation has been compiled through experiance and experimentation, and is the official documentation and procedures compiled by Mohammed Husamuddin and Maintained by Sivaa B==
+  ==The Documentation is Subject to Change upon the Leads Decision; This documentation has been compiled through experiance and experimentation, and is the official documentation and procedures compiled by Mohammed Husamuddin and Maintained by Sivaa B==
+
