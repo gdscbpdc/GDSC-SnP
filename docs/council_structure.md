@@ -88,12 +88,13 @@ The council structure depicted in the flowchart outlines the hierarchical struct
 
 **Database Systems Admin**: Responsible for ensuring continuous development and maintainence of GDSC Database (Google Sheets, Task Tracker, GDSC Website, GDSC ERP).
 
-- Also expected to building automation systems, Dashbaords and Internal Tools.
+- Also expected to continously build automation systems, Dashbaords and Internal Tools.
 
 **Technical Executive**: Conduct workshops on their field of experiance, Continuously learn new technologies and make questions for competitions and hackathons conducted by GDSC.
 
 - Also respnsible for handling technical aspects of workshops conducted by GDSC.
 - Preparing workshop documentation and actively reviewing documentation for other's workshops.
+
 **Marketing Executive**: Resonsible for coming up with ideas to market events(Workshops/Competitions/Hackathons/Membership Drives) and implement them using the help of creative and events team.
 - Also responsible for coming up with new initiatives to improve engagement and ommunication with community members.
 
