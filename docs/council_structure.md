@@ -14,7 +14,7 @@ flowchart TD
         direction LR
         C-->|Events Team Reports Directly to Management Lead | I["Management/Events Team"]
         C-->| Team Members Include | EX["SnP Executive & Database Systems Admin"]
-        C-->| Team Members Include | FI["Finance Executive"}
+        C-->| Team Members Include | FI["Finance Executive"]
     end
 ```
 
