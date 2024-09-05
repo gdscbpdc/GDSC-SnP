@@ -3,13 +3,10 @@ flowchart TD
     A("Lead") --> B["Co-Lead"]
     B --> C["Management Lead"]
     C-->D["Technical Lead"]
-    C-->E["Marketing Lead"]
-    C-->F["Creative Lead"]
-    
+    C-->E["Marketing & Creative Lead"]    
 
     D-->T["Technical Executive & Network Leads"] 
-    E-->M["Marketing Manager & Executives"]
-    F-->P["Creative Managers & Executives"]
+    E-->M["Marketing Executives & Creative Executives"]
     subgraph Management_Team_Structure
         direction LR
         C-->|Events Team Reports Directly to Management Lead | I["Management/Events Team"]
