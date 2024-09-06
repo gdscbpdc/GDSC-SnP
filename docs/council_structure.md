@@ -1,13 +1,14 @@
 ```mermaid
 flowchart TD
     LE("Lead") --> CO["Co-Lead"]
-    LE --> ME("Mentor")
     LE --> MGMT["Management Lead"]
     LE --> EX["Co-Lead of External Affairs"]
     MGMT --> TE1["Technical Lead 1"]
     MGMT --> TE2["Technical Lead 2"]
     MGMT --> MC["Marketing & Creative Lead"]
 
+    ME["Mentor"] --> |Advises| CO
+    ME --> |Advises| EX
     CO --> MC
     EX --> MGMT
 
