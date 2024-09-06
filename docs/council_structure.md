@@ -1,23 +1,40 @@
 ```mermaid
 flowchart TD
-    A("Lead") --> B["Co-Lead"]
-    B --> C["Management Lead"]
-    C-->D["Technical Lead"]
-    C-->E["Marketing & Creative Lead"]    
+    LE("Lead") --> CO["Co-Lead"]
+    LE --> MGMT["Management Lead"]
+    LE --> EX["Co-Lead of External Affairs"]
+    LE --> TE["Technical Lead"]
+    LE --> MC["Marketing & Creative Lead"]
 
-    D-->T["Technical Executive & Network Leads"] 
-    E-->M["Marketing Executives & Creative Executives"]
-    subgraph Management_Team_Structure
+    CO --> MC
+    EX --> MGMT
+
+    subgraph Management Team
         direction LR
-        C-->|Events Team Reports Directly to Management Lead | I["Management/Events Team"]
-        C-->| Team Members Include | EX["SnP Executive & Database Systems Admin"]
-        C-->| Team Members Include | FI["Finance Executive"]
+        MGMT --> MG1["Finance Executive"]
+        MGMT --> MG2["SnP Executive"]
+        MGMT --> MG3["Database Admin"]
+        MGMT --> MG4["Management Executive"]
+    end
+
+    subgraph Technical Team
+        direction LR
+        TE --> TH1["Cybersecurity Head"]
+        TE --> TH2["Web and App Development Head"]
+        TE --> TH3["CC and CTF Head"]
+        TE --> TH4["IoT and Robotics Head"]
+        TE --> TH5["AI and ML Head"]
+        TE --> TH6["Technical Executives"]
+    end
+
+    subgraph Marketing/Creative Team
+        direction LR
+        MC --> TMC1["Marketing/Creative Executives"]
     end
 ```
-
 ## Council Structure Elaboration
 
-The council structure depicted in the flowchart outlines the hierarchical structure of Google DSC, with a focus on leadership roles and reporting relationships. 
+The council structure depicted in the flowchart outlines the hierarchical structure of Google DG, with a focus on leadership roles and reporting relationships. 
 
 ### Leadership Roles and Responsibilities:
 
@@ -25,35 +42,51 @@ The council structure depicted in the flowchart outlines the hierarchical struct
 
 - **Co-Lead**: Assists the Lead in leadership responsibilities and may oversee specific areas of focus within the council(Technical or Marketing).
 
-- **Management Lead or 2nd Co-Lead**: Responsible for managing the overall operations and coordination of different teams within the council. Some responsibilities include:
-  - Strategic planning and goal setting.
-  - Overseeing team performance and ensuring alignment with organizational objectives.
-  - Acting as a liaison between different teams and stakeholders.
-  - Manager of External Affairs & University Relations
+- **Co-Lead of External Affairs**: Responsible for managing relations with external bodies such as Google, other clubs, and the Student Council. This role also includes coordinating external events in collaboration with our university.
+
+- **Management Lead**: Responsible for managing the overall operations and coordination of different teams within the council. Some responsibilities include:
+    - Strategic planning and goal setting.
+    - Overseeing team performance and ensuring alignment with organizational objectives.
+    - Acting as a liaison between different teams and stakeholders.
 
 - **Mentors**: Responsible for keeping the Administrative Structure in Check, Advising the Lead and the Co-Lead in overall club management.
   - Helping the council technically and managerially when needed and keeping the systems and procedures in check.
 
 - **Technical Lead**: Responsible for technical aspects of the council's operations, including:
-  - Leading technical projects and initiatives.
-  - Ensuring the reliability and security of technical systems.
-  - Providing technical guidance and support to team members.
-  - Planning for competitions and technical workshops and bootcamps
+    - Leading technical projects and initiatives.
+    - Ensuring the reliability and security of technical systems.
+    - Providing technical guidance and support to team members.
+    - Planning for competitions and technical workshops and bootcamps
 
-- **Marketing Lead**: Oversees marketing strategies and initiatives, including:
-  - Developing marketing campaigns to promote the council's activities or services.
-  - Conducting active research and gaining insights into the councils marketing efforts.
-  - Managing branding and communication efforts.
+- **Marketing/Creative Lead**: Oversees marketing strategies and initiatives, and is responsible for guiding the creative direction and output of the council. Their responsibilities are as follows:
+    - Developing marketing campaigns to promote the council's activities or services.
+    - Conducting active research and gaining insights into the councils marketing efforts.
+    - Managing branding and communication efforts.
+    - Learning design and content creation efforts.
+    - Ensuring consistency and quality in visual materials.
+    - Collaborating with other team sto integrate creative elements into projects.
+ 
+### Teams
 
-- **Creative Lead**: Responsible for guiding the creative direction and output of the council, such as:
-  - Leading design and content creation efforts.
-  - Ensuring consistency and quality in visual materials.
-  - Collaborating with other teams to integrate creative elements into projects.
+- **Management Team**
+    - Management Lead
+    - Finance Executive
+    - SnP Executive
+    - DB Executive
+    - Management Executive
+ 
+- **Technical Team**
+    - Technical Head
+    - Cybersecurity Head
+    - Web and App Development Head
+    - CC and CTF Head
+    - IoT and Robotics Head
+    - AI and ML Head
+    - Technical Executives
 
-- **Finance Lead**: Manages financial matters within the council, including:
-  - Budget planning and management.
-  - Financial reporting and analysis.
-  - Ensuring compliance with financial regulations and policies set by the lead, Google DSC and the University.
+- **Marketing/Creative Team**
+    - Marketing/Creative Head
+    - Marketing/Creative Executives
 
 ### Reporting Structure:
 
@@ -69,11 +102,9 @@ The council structure depicted in the flowchart outlines the hierarchical struct
 
 - **Creative Managers & Executives**: Assist the Creative Lead in managing creative projects and outputs, comprising managers and executives with expertise in design and content creation.
 
-- **1 Finance Executive (H)**: Assists the Finance Lead in managing financial matters within the council, handling day-to-day financial operations and reporting.
-  - Also looks into membership structure and pricing structure, collect payments and interactive with fee related issues with members.
+- **Finance Executive**: Budget planning and management, financial reporting and analysis, ensuring compliance with financial regulations and policies set by the Lead, Google DG, and the University. Also looks into membership structure and pricing structure, collect payments and interactive with fee related issues with members.
 
 - **SnP Executive & Database Systems Admin**: Specialized roles within the Management/Events Team, responsible for _Standards and Procuedures_ aka Quality Assurance and _Database administration_ aka Managing the GDSC Database.
-
 ---
 
 # Job Decriptions
@@ -94,7 +125,7 @@ The council structure depicted in the flowchart outlines the hierarchical struct
 **Marketing Executive**: Resonsible for coming up with ideas to market events(Workshops/Competitions/Hackathons/Membership Drives) and implement them using the help of creative and events team.
 - Also responsible for coming up with new initiatives to improve engagement and ommunication with community members.
 
-> This structure is developed by Mohammed Husamuddin (Lead of Google DSC 2023-2024) from experiance and active experimentation
+> This structure was developed by Mohammed Husamuddin (Lead of Google DSC 2023-2024) from experiance and active experimentation. It has been updated since then by Nishit Batwal (Lead of Google DG 2024-2025).
 
-  ==The Documentation is Subject to Change upon the Leads Decision; This documentation has been compiled through experiance and experimentation, and is the official documentation and procedures compiled by Mohammed Husamuddin and Maintained by Sivaa B==
+  ==The Documentation is Subject to Change upon the Leads Decision; This documentation has been compiled through experiance and experimentation, and is the official documentation and procedures compiled by Mohammed Husamuddin and maintained by Sivaa B in 2023==
 
