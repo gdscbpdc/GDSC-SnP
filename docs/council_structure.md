@@ -1,10 +1,12 @@
 ```mermaid
 flowchart TD
     LE("Lead") --> CO["Co-Lead"]
+    LE --> ME("Mentor")
     LE --> MGMT["Management Lead"]
     LE --> EX["Co-Lead of External Affairs"]
-    LE --> TE["Technical Lead"]
-    LE --> MC["Marketing & Creative Lead"]
+    MGMT --> TE1["Technical Lead 1"]
+    MGMT --> TE2["Technical Lead 2"]
+    MGMT --> MC["Marketing & Creative Lead"]
 
     CO --> MC
     EX --> MGMT
@@ -19,12 +21,14 @@ flowchart TD
 
     subgraph Technical Team
         direction LR
-        TE --> TH1["Cybersecurity Head"]
-        TE --> TH2["Web and App Development Head"]
-        TE --> TH3["CC and CTF Head"]
-        TE --> TH4["IoT and Robotics Head"]
-        TE --> TH5["AI and ML Head"]
-        TE --> TH6["Technical Executives"]
+        TE1 --> TSH["Network Heads and Executives"]
+        TE2 --> TSH
+        TSH --> TH1["Cybersecurity Head"]
+        TSH --> TH2["Web and App Development Head"]
+        TSH --> TH3["CC and CTF Head"]
+        TSH --> TH4["IoT and Robotics Head"]
+        TSH --> TH5["AI and ML Head"]
+        TSH --> TH6["Technical Executives"]
     end
 
     subgraph Marketing/Creative Team
