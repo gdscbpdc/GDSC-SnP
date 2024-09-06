@@ -21,14 +21,17 @@ flowchart TD
 
     subgraph Technical Team
         direction LR
-        TE1 --> TSH["Network Heads and Executives"]
+        TE1 --> TSH
         TE2 --> TSH
-        TSH --> TH1["Cybersecurity Head"]
-        TSH --> TH2["Web and App Development Head"]
-        TSH --> TH3["CC and CTF Head"]
-        TSH --> TH4["IoT and Robotics Head"]
-        TSH --> TH5["AI and ML Head"]
-        TSH --> TH6["Technical Executives"]
+        subgraph TSH["`Network Heads and Executives`"]
+            direction TB
+            TH1["Cybersecurity Head"]
+            TH2["Web and App Development Head"]
+            TH3["CC and CTF Head"]
+            TH4["IoT and Robotics Head"]
+            TH5["AI and ML Head"]
+            TH6["Technical Executives"]
+        end
     end
 
     subgraph Marketing/Creative Team
